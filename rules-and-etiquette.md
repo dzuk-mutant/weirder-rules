@@ -243,7 +243,7 @@ Unfortunately, not all mobile apps do image descriptions, but just try your best
 
 Keep in mind that Mastodon has users from all over the world.
 
-If you have some advice or a political post that's only relevant to a certain part of the world, mention what part of the world it is for.
+If you have a post (like advice or politics) that's only relevant to a certain part of the world, mention what part of the world it is for.
 
 <br/>
 
