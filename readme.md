@@ -28,4 +28,4 @@ If you feel that these rules (in part or in full) are good for your community an
 
 If your instance/community is not under American jurisdiction, you will probably want to change or remove the FOSTA/SESTA section.
 
-Much of the Etiquette section is specifically tailored to Mastodon (as well as the FOSTA/SESTA section). If you want to use these in a different kind of community, you will want to change these too.
+Much of the Etiquette section (as well as the FOSTA/SESTA section) is specifically tailored to Mastodon. If you want to use these in a different kind of community, you will want to change these too.
