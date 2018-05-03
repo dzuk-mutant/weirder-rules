@@ -1,0 +1,282 @@
+# weirder.earth Rules and Etiquette
+
+We want everyone to have a great time, feel welcome and to let cool ideas flow around. Giving everyone some guidelines helps you all to know what's up and how we can keep this place an enjoyable, fun and interesting place to be.
+
+There's two parts:
+
+- **Rules**: Things that are probably obvious to most people that are hurtful or unpleasant.
+- **Etiquette**: Things you might not be aware of that help keep the space awesome for everyone.
+
+---
+
+## Rules
+
+This section covers stuff that is not okay to do here - generally because one way or another, it hurts or represses people.
+
+These may not cover every situation, so moderators can still make decisions at their own discretion.
+
+**These apply to this instance and elsewhere on other instances, other social networks and IRL.**
+
+**Your moderators will take any accusations seriously, and will handle them anonymously.**
+
+<br/>
+
+
+<br/>
+
+### Ideologies
+
+If you have the following or similar kinds of ideologies or affiliations, you are not welcome here:
+
+
+- White supremacy / White nationalism / Neo-nazi / Alt-right / Alt-light / Identitarian / Manosphere
+- GamerGate / Anti-feminism
+- Sovereign Citizens
+- Anarchocapitalism / Objectivism / Right-wing Libertarian
+- TERFs, SWERFs or otherwise anti-trans or anti-sex worker
+- Religious fundamentalism or anti-abortion. **(Other types of religion are A-OK!)**
+- Militarism, Chauvinism, Ethno-nationalism, Xenophobia or similar.
+- Stalinism, Maoism or similar. **(Non-authoritarian forms of Socialism and Communism are A-OK!)**
+
+
+Apart from those listed, if you have any ideology that believes in  - whether violently, non-violently or religiously - the repression of people based on race, gender identity, sexuality and so on, you are also not welcome here.
+
+**Ideologies or affiliations based on controlled *counter-violence* in opposition to oppression (like antifa/antifascism) *are* welcome here.**
+
+<br/>
+
+
+<br/>
+
+### Actions
+
+This covers a lot of mostly obviously unpleasant stuff.
+
+<br/>
+
+#### Hate speech
+
+Hate speech results in an immediate ban. Here are some examples of what we mean:
+
+- Comments, imagery, memes or publications that demean, dehumanise, malign or otherwise hurt a person or a group of people based on certain characteristics or group status, including but not limited to:
+	- Race
+	- Sexuality
+	- Gender identity
+	- Age
+	- Body size/weight
+	- Disability
+	- Religion
+	- Sex work
+	- Kinks or fetishes
+	- Alternative personas or forms of identity (furries, otherkin, plural systems, etc.)
+- Racial slurs
+- Misgendering (intentionally using the incorrect pronouns or phrasing to refer to someone's gender)
+
+<br/>
+
+It's okay to criticise things like religions, but only as long as that isn't just a wedge/shield for bigotry (eg. using feminist concepts to malign all forms of Islam instead of rationally talking about the specific forms of Islam or Islamic communities which do have mysogyny issues).
+
+<br/>
+
+Marginalised communities (like PoC or women) being fed up with systemic problems and complaining about certain groups' lack of understanding or action about certain issues (ie. white people, men) is not hate speech. If you're not a part of the problem, you don't need to see it as an attack. :)
+
+<br/>
+
+#### Generally unacceptable behaviour
+These result in an immediate ban:
+
+- Clearly being disrespectful or acting like an asshole.
+- Telling someone to or suggesting that someone should commit suicide, be killed, or die. (even jokingly)
+- Refusing to CW content that should be in a CW (see the Etiquette section), or refusing moderator requests to CW content.
+- Advertising or preaching (as opposed to sharing or genuinely showing off things to people, which is totally fine)
+
+
+This is also *super not okay*:
+
+- Making sex jokes or flirting with someone when they haven't specifically said that's okay on their profile.
+
+<br/>
+
+
+
+#### Harassment and Threats
+Any of these kinds of things will result in an immediate ban:
+
+- Intentionally sending posts to someone that are designed to distress or insult them.
+- Using posts, screenshots or out of context quotes to mock or make fun of someone else.
+- Submitting false reports against someone else.
+- Continuing to interact with someone after they have told you to stop.
+- Threatening to harrass, threatening to dox, threatening to DDoS, or any other kind of threat.
+- Sexual harassment or acting in a sexually predatory way.
+
+<br/>
+
+#### Conspiracy theories, pseudoscience and scams
+
+It wouldn't be weirder.earth if we didn't accept weird ideas, but it's important that our instance is a place for constructive ones, and not ones that are used as weapons, tools of disinformation, or spreading information that can cause harm.
+
+Some kinds of conspiracy talk and discussions of the occult and woo are fine, but these are examples of the kinds of things that are unacceptable here:
+
+- Anti-vaxxers
+- Climate change denial
+- Flat earthers
+- NWO, Illuminati, Chemtrails, Pizzagate, etc.
+- Hate group conspiracy theories like Holocaust Denial. 
+- Pseudoscience like Homeopathy.
+- 'Creation Science' and other religious forms of pseudoscience.
+- Promoting MLMs (Multi-Level Marketing schemes) or Ponzi schemes.
+
+As long as you understand the importance of seeing medical professionals and don't make medical claims, occultism and mysticism are perfectly fine.
+
+Guerilla ontologies and similar things are also absolutely fine.
+
+
+<br/>
+
+#### Sexual content involving minors
+
+Do not flirt with someone who is under 18.
+
+Do not post illustrated imagery featuring sexualised depictions *of people who appear to be underage*. Even if there's something saying they are over 18, they should *reasonably look like they are over 18*.
+
+Do not post erotica involving minors.
+
+(Ofc actual child porn is also absolutely not allowed)
+
+Any of these will result in an immediate ban.
+
+<br/>
+
+#### FOSTA/SESTA
+
+We are a sex-worker positive space and we openly advocate for sex worker rights. But because the instance is owned by someone who lives on American soil and because of recent American laws, you can't solicit sex work in this instance, nor can you be a client.
+
+If you want to do either, we recommend using another Mastodon instance called [Switter](https://switter.at). It has specifically been set up in the appropriate legal jurisdictions for sex workers and clients.
+
+---
+
+## Etiquette
+These are general things to be aware of if you use our instance. You may not be used to them, and that's okay! We're willing to help you if you stumble along the way.
+
+If a moderator asks you to repost something with a CW or asks you to change or delete a post for a particular reason outlined in this section, it doesn't mean you're in trouble. You're just being given a friendly pointer so you can help make this space awesome for everyone 😄.
+
+<br/>
+
+### Local Timeline
+
+*(Mastodon has different 'timelines' that different people can see - the Local Timeline is a timeline everyone in this instance can see. You post to it by choosing 'Public' (the globe icon) in your post toolbar.)*
+
+We really want our Local Timeline to be an antidote to traditional social media posting; a more down to earth place where people talk about themselves and what they're up to.
+
+- Let everyone have space to share things. Be selective about your Local posts and avoid posting too many things at once.
+- Avoid posting lots of external links on the local timeline. We want everyone to share things about *themselves*, and reposting stuff from elsewhere can make the space feel impersonal.
+
+<br/>
+
+### Use CWs for sensitive content.
+
+CWs (Content Warnings) are a really cool way for people to keep climate control over their Mastodon browsing experience. It's especially useful in these stressful times, but it's also useful if you or other people have particular mental health conditions or are just having a bad day.
+
+You should CW a post when it contains any of the following topics, whether the content is good or bad. Feel free to add (+) for positive content, (~) for mixed content and (-) for negative content.
+
+<br/>
+
+- **Politics** (normally abbreviated to 'pol' along with the country/region, ie. 'UKpol', 'DEpol', etc.)
+- **Mental Health topics** (normally abbreviated to 'mh')
+- **Food, alcohol ('alc') and drugs**
+- **NSFW content**
+- **Sexual themes or content**
+- **Violent themes or content, blood and gore**
+- **Themes or content about abuse**
+- **Generally negative things/events/people**
+- **Things people might find scary** (Like certain animals such as snakes and insects.)
+- **Long posts or posts with multiple parts**
+
+<br/>
+
+
+Also CW images that have nudity or these areas of the body exposed:
+
+- A certain area around the nipples (and/or the nipples themselves). From the end of the ribcage to the bust line.
+- Anything less than what boxer briefs or shorts would cover around the groin area.
+
+This applies to all bodies regardless of gender.
+
+<br/>
+
+You should use CWs at all times if your post matches the criteria. Even when you think it's urgent that people should know about it (you can add that it's urgent in the CW if you like).
+
+
+<br/>
+
+### Always write descriptions for your images.
+
+Mastodon has an image description feature, meaning that you can attach text descriptions to the images you upload so the blind or visually impaired can understand what the image is.
+
+There is never a time that this would not be potentially useful to someone.
+
+Some tips for writing image descriptions:
+
+**Write:**
+
+- Placement of objects
+- The kind of image it is (photo, painting, drawing, CG, chart, text, screenshot etc.)
+- Colours
+- People and animals
+- Placement of text
+- Emotions (ie. smiling)
+- General surroundings)
+- (Generally what is important to understanding the picture, or what the point of the picture is.)
+
+**Don't write:**
+
+- Descriptions that are too detailed.
+- Details of the picture that would be obvious in the given context (like, you don't need to say that a face has two eyes, a nose and a mouth because you've said it's a face).
+- Details that aren't the point or the focus of the picture.
+- (Generally what isn't important to understanding the picture, or what the point of the picture is.)
+
+Unfortunately, not all mobile apps do image descriptions, but just try your best!
+
+<br/>
+
+### Be explicit about region-specific posts.
+
+Keep in mind that Mastodon has users from all over the world.
+
+If you have some advice or a political post that's only relevant to a certain part of the world, mention what part of the world it is for.
+
+<br/>
+
+### Avoid subtooting when you can.
+
+Subtooting (like subtweeting) is talking about something someone else has said without talking to the person who said it directly.
+
+This is a tempting thing to do (and sometimes an ideal thing to do) if you don't want to get into a particular situation, but it has a negative side effect if you're not careful. It can make the entire environment hostile because subtooting can make people unsure whether you might be talking about them or not.
+
+<br/>
+
+### Be careful when considering giving unsolicited advice.
+
+We try to be respectful of the opinions and views of others. Often unsolicited advice or prosletyzing, while well intentioned, can never the less make a person feel like their beliefs, values, or experience are invalid. For this reason, you should err on the side of caution.
+
+<br/>
+
+### Leave edgy humour and  societal baggage at the door.
+
+There are things you might be used to doing that you think are okay, but they actually hurt other people or make them feel unwelcome. 
+
+You'll need to keep in mind that these are not okay and you shouldn't do these kinds of things if you decide to make an account here.
+
+Here are some examples:
+
+- Rape jokes
+- Making jokes at the expense of content warnings ('triggered' jokes).
+- Putting marginalised people in the position of having to defend or explain their marginalisation. It's *your* responsibility to do your own research.
+- Microaggressions ([you can find some examples of what that kind of thing is here](https://rationalwiki.org/wiki/Microaggression))
+- Using phrases similar to 'not all men...' when someone is just venting about something they've experienced. If you're not a part of the problem, then you don't need to see it as a personal attack.
+- Not using CWs properly (see the CW section above for guidance).
+
+We'll help you if you genuinely make mistakes along the way, but please really try to keep them in mind.
+
+<br/>
+
