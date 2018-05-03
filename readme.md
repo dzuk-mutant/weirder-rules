@@ -9,7 +9,7 @@ Hey, this is just the readme and preface. [Click here](rules-and-etiquette.md) t
 
 ### Miscellanea
 
-The original outline was made by Dzuk, but with the help of many many contributions and conversations from the weirder.earth community.
+The original outline was made by Dzuk, but was improved upon and finalised with the help of many many contributions and conversations from the weirder.earth community.
 
 The approach to this was inspired heavily by [Mixer](https://watchbeam.zendesk.com/hc/en-us/articles/115000922623-Rules-of-User-Conduct)'s and [Waypoint](https://forum.waypoint.vice.com)'s community guidelines. It was also derived from many of the old Etiquette and Rules weirder.earth had in the past and general personal experience with moderating online spaces.
 
