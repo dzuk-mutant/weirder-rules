@@ -1,8 +1,11 @@
 # weirder.earth Rules and Etiquette
 
-Hey, this is just the readme and preface. [Click here](rules-and-etiquette.md) to read the actual things.
+Hey, this is just the readme and preface. [Click here](rules-and-etiquette.md) to read the actual thing.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">weirder.earth Rules and Etiquette</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="example" property="cc:attributionName" rel="cc:attributionURL">weirder.earth</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">weirder.earth Rules and Etiquette</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://weirder.earth" property="cc:attributionName" rel="cc:attributionURL">weirder.earth</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+---
 
 ### Miscellanea
 
@@ -10,6 +13,7 @@ The original outline was made by Dzuk, but with the help of many many contributi
 
 The approach to this was inspired heavily by [Mixer](https://watchbeam.zendesk.com/hc/en-us/articles/115000922623-Rules-of-User-Conduct)'s and [Waypoint](https://forum.waypoint.vice.com)'s community guidelines. It was also derived from many of the old Etiquette and Rules weirder.earth had in the past and general personal experience with moderating online spaces.
 
+---
 
 ### Copying and Adapting
 
