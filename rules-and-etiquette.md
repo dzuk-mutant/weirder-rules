@@ -38,14 +38,20 @@ If you have the following or similar kinds of ideologies or affiliations, you ar
 - Militarism, Chauvinism, Ethno-nationalism, Xenophobia or similar.
 - Stalinism, Maoism or similar. **(Non-authoritarian forms of Socialism and Communism are A-OK!)**
 
+<br/>
 
-Apart from those listed, if you have any ideology that believes in  - whether violently, non-violently or religiously - the repression of people based on race, gender identity, sexuality and so on, you are also not welcome here.
+If you work for any of the following organisations, you aren't welcome here:
 
-Ideologies or affiliations based on controlled *counter-violence* in opposition to oppression (like antifa/antifascism) *are* welcome here.
+- Police
+- Immigration enforcement
+
+(This does not mean we will refuse *legally valid* requests for information, it just means that aside from this type of situation, you are not welcome here in any way.)
 
 <br/>
 
-If you work for a police or immigration enforcement organisation you aren't welcome here either. (That does not mean we will refuse *legally valid* requests for information, it just means that aside from this type of situation, you are not welcome here in any way.)
+Apart from those listed, if you have any ideology that believes in  - whether violently, non-violently or religiously - the repression of people based on race, gender identity, sexuality and so on, you are also not welcome here.
+
+**Ideologies or affiliations based on controlled *counter-violence* in opposition to oppression (like antifa/antifascism) *are* welcome here.**
 
 <br/>
 
