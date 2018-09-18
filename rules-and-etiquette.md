@@ -40,7 +40,7 @@ If you have the following or similar kinds of ideologies or affiliations, you ar
 
 <br/>
 
-If you work for any of the following organisations, you aren't welcome here:
+If you work for any of the following types of organisations, you aren't welcome here:
 
 - Police
 - Immigration enforcement
