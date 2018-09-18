@@ -24,7 +24,7 @@ These may not cover every situation, so moderators can still make decisions at t
 
 <br/>
 
-### Ideologies
+### Groups of people that aren't welcome here
 
 If you have the following or similar kinds of ideologies or affiliations, you are not welcome here:
 
@@ -41,14 +41,18 @@ If you have the following or similar kinds of ideologies or affiliations, you ar
 
 Apart from those listed, if you have any ideology that believes in  - whether violently, non-violently or religiously - the repression of people based on race, gender identity, sexuality and so on, you are also not welcome here.
 
-**Ideologies or affiliations based on controlled *counter-violence* in opposition to oppression (like antifa/antifascism) *are* welcome here.**
+Ideologies or affiliations based on controlled *counter-violence* in opposition to oppression (like antifa/antifascism) *are* welcome here.
+
+<br/>
+
+If you work for a police or immigration enforcement organisation you aren't welcome here either. (That does not mean we will refuse *legally valid* requests for information, it just means that aside from this type of situation, you are not welcome here in any way.)
 
 <br/>
 
 
 <br/>
 
-### Actions
+### Actions and behaviours that aren't welcome here
 
 This covers a lot of mostly obviously unpleasant stuff.
 
@@ -261,7 +265,16 @@ We try to be respectful of the opinions and views of others. Often unsolicited a
 
 <br/>
 
-### Leave edgy humour and  societal baggage at the door.
+
+### If you see something bad, tell your moderator(s).
+
+Corporate social media like Twitter and Tumblr can often make people feel powerless to actually take people who behave badly out of the picture, and this can lead to an ecosystem where issues are taken out publicly, and they can create mobs that cause a lot of people stress and can also easily harm the wrong people.
+
+Here, you have moderators who are willing and able to help you and investigate and deal with problems. Please don't post publicly about these issues, make a report or DM one of your local moderators.
+
+<br/>
+
+### Leave edgy humour and societal baggage at the door.
 
 There are things you might be used to doing that you think are okay, but they actually hurt other people or make them feel unwelcome. 
 
@@ -277,6 +290,4 @@ Here are some examples:
 - Not using CWs properly (see the CW section above for guidance).
 
 We'll help you if you genuinely make mistakes along the way, but please really try to keep them in mind.
-
-<br/>
 
