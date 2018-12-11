@@ -71,7 +71,7 @@ Hate speech results in an immediate ban. Here are some examples of what we mean:
 - Comments, imagery, memes or publications that demean, dehumanise, malign or otherwise hurt a person or a group of people based on certain characteristics or group status, including but not limited to:
 	- Race
 	- Sexuality
-	- Gender identity
+	- Gender identity (this includes non-binary gender identities)
 	- Age
 	- Body size/weight
 	- Disability
