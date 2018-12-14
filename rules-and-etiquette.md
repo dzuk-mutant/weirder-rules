@@ -26,24 +26,27 @@ These may not cover every situation, so moderators can still make decisions at t
 
 ### Groups of people that aren't welcome here
 
-If you have the following or similar kinds of ideologies or affiliations, you are not welcome here:
+If you have the following or similar kinds of ideologies or affiliations, you are not welcome here and you will be immediately banned if found out:
 
-
-- White supremacy / White nationalism / Neo-nazi / Alt-right / Alt-light / Identitarian / Manosphere
-- GamerGate / Anti-feminism
-- Sovereign Citizens
-- Anarchocapitalism / Objectivism / Right-wing Libertarian
-- TERFs, SWERFs or otherwise anti-trans or anti-sex worker
-- Religious fundamentalism or anti-abortion. **(Other types of religion are A-OK!)**
+- Neo-fascism (White supremacy / White nationalism / Neo-nazi / Alt-right / Alt-light / Identitarian / Male supremacy / Manosphere)
+- Reactionary (GamerGate / Anti-feminism / Neo-reactionary)
+- Neo-feudalism ('Anarcho'-capitalism / 'Objectivism' / Right-wing Libertarians)
+- TERF, SWERF or otherwise anti-trans or anti-sex worker
+- Truscum, Transmed or other kinds of identity policing.
+- People who are generally phobic/shitty towards non-binary genders.
+- Religious fundamentalism or anti-abortion. (Other types of religion are A-OK!)
 - Militarism, Chauvinism, Ethno-nationalism, Xenophobia or similar.
-- Stalinism, Maoism or similar. **(Non-authoritarian forms of Socialism and Communism are A-OK!)**
+- Stalinism, Maoism or similar. (Non-authoritarian forms of Socialism and Communism are A-OK!)
+- Shitty furries (Nazifurs and any furry that thinks being a bigoted piece of shit is okay!)
 
 <br/>
 
-If you work for any of the following types of organisations, you aren't welcome here:
+If you work in any capacity (whether as a direct employee or a contractor) for any of the following types of organisations, you aren't welcome here, and if you reveal yourself as such, you will be banned:
 
 - Police
 - Immigration enforcement
+- Intelligence/spy organisations
+
 
 (This does not mean we will refuse *legally valid* requests for information, it just means that aside from this type of situation, you are not welcome here in any way.)
 
@@ -65,22 +68,28 @@ This covers a lot of mostly obviously unpleasant stuff.
 <br/>
 
 #### Hate speech
-
 Hate speech results in an immediate ban. Here are some examples of what we mean:
 
-- Comments, imagery, memes or publications that demean, dehumanise, malign or otherwise hurt a person or a group of people based on certain characteristics or group status, including but not limited to:
-	- Race
-	- Sexuality
-	- Gender identity (this includes non-binary gender identities)
-	- Age
-	- Body size/weight
-	- Disability
-	- Religion
-	- Sex work
-	- Kinks or fetishes
-	- Alternative personas or forms of identity (furries, otherkin, plural systems, etc.)
-- Racial slurs
-- Misgendering (intentionally using the incorrect pronouns or phrasing to refer to someone's gender)
+Comments, imagery, memes or publications that demean, dehumanise, malign or otherwise hurt a person or a group of people based on certain characteristics or group status, including but not limited to:
+
+- Race
+- Sexuality
+- Gender identity, including trans and non-binary gender identities
+- Age
+- Body size/weight
+- Disability
+- Religion
+- Sex work
+- Kinks or fetishes
+- Certain personas or forms of identity (furries, otherkin, plural systems, etc.)
+- Poverty/lack of wealth
+
+
+Saying things or things in a particular way, like:
+
+- Racial slurs, ableist slurs, etc.
+- Intentional misgendering (intentionally using pronouns or phrasing to refer to someone's gender incorrectly)
+
 
 <br/>
 
@@ -123,22 +132,21 @@ Any of these kinds of things will result in an immediate ban:
 
 #### Conspiracy theories, pseudoscience and scams
 
-It wouldn't be weirder.earth if we didn't accept weird ideas, but it's important that our instance is a place for constructive ones, and not ones that are used as weapons, tools of disinformation, or spreading information that can cause harm.
+It's important that our server is a place for constructive ideas, and not ones that are used as weapons, tools of disinformation, or spreading information that can cause harm.
 
 Some kinds of conspiracy talk and discussions of the occult and woo are fine, but these are examples of the kinds of things that are unacceptable here:
 
-- Anti-vaxxers
+- Anti-vaxxer
 - Climate change denial
 - Flat earthers
 - NWO, Illuminati, Chemtrails, Pizzagate, etc.
-- Hate group conspiracy theories like Holocaust Denial. 
-- Pseudoscience like Homeopathy.
+- Hate group conspiracy theories like Holocaust Denial.
+- Pseudoscience like Homeopathy, 'healing crystals', etc.
 - 'Creation Science' and other religious forms of pseudoscience.
 - Promoting MLMs (Multi-Level Marketing schemes) or Ponzi schemes.
 
-As long as you understand the importance of seeing medical professionals and don't make medical claims, occultism and mysticism are perfectly fine.
+Guerilla ontologies and similar things are absolutely fine.
 
-Guerilla ontologies and similar things are also absolutely fine.
 
 
 <br/>
