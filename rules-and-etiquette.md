@@ -200,7 +200,7 @@ You should CW a post when it contains any of the following topics, whether the c
 <br/>
 
 - **Politics** (normally abbreviated to 'pol' along with the country/region, ie. 'UKpol', 'DEpol', etc.)
-- **Mental Health topics** (normally abbreviated to 'mh')
+- **Potentially triggering Mental Health topics** (normally abbreviated to 'mh'). *Many of our members come here to discuss their mental health journey, and we seek to be as welcoming and open as possible, but for the sake of other users: please CW references to self harm, suicide, helplessness and other moods and behaviours that may be contagious or trigger people in recovery*
 - **Food, alcohol ('alc') and drugs**
 - **NSFW content**
 - **Sexual themes or content**
@@ -208,7 +208,7 @@ You should CW a post when it contains any of the following topics, whether the c
 - **Themes or content about abuse**
 - **Generally negative things/events/people**
 - **Things people might find scary** (Like certain animals such as snakes and insects.)
-- **Long posts or posts with multiple parts**
+- **Long posts or posts with multiple parts** (please also use the 'unlisted' privacy setting for posts after the first in a thread, so that the local timeline doesn't get flooded)
 
 <br/>
 
