@@ -208,7 +208,7 @@ You should CW a post when it contains any of the following topics, whether the c
 - **Themes or content about abuse**
 - **Generally negative things/events/people**
 - **Things people might find scary** (Like certain animals such as snakes and insects.)
-- **Long posts or posts with multiple parts**
+- **Long posts or posts with multiple parts** (please also use the 'unlisted' privacy setting for posts after the first in a thread, so that the local timeline doesn't get flooded)
 
 <br/>
 
